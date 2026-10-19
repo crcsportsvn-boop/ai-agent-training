@@ -1,0 +1,31 @@
+HỌ VÀ TÊN: NGUYỄN VĂN AN
+Năm sinh: 1996
+Số điện thoại: 0912345678
+Email: an.nguyen.data@gmail.com
+Địa chỉ: Quận Bình Thạnh, TP. Hồ Chí Minh
+
+MỤC TIÊU NGHỀ NGHIỆP:
+Ứng tuyển vị trí Chuyên viên phân tích dữ liệu (Data Analyst). Mong muốn ứng dụng thế mạnh về Power BI, mô hình hóa dữ liệu nhân sự và tự động hóa quy trình báo cáo để tạo ra giá trị chiến lược cho doanh nghiệp.
+
+HỌC VẤN:
+- Cử nhân Hệ thống thông tin quản lý - Đại học Kinh tế TP.HCM (2014 - 2018)
+- Tốt nghiệp loại Giỏi (GPA: 8.4/10)
+
+KINH NGHIỆM LÀM VIỆC (4 năm kinh nghiệm):
+1. Chuyên viên Dữ liệu & Báo cáo - Tập đoàn Bán lẻ XYZ (2021 - Hiện tại)
+- Thiết kế hệ thống Dashboard theo dõi Headcount, Turnover rate và quỹ lương (PE Cost) cho hơn 3.000 nhân sự trên toàn quốc.
+- Xây dựng mô hình dữ liệu SCD Type 2 quản lý lịch sử biến động hợp đồng và vị trí chức danh.
+- Tự động hóa trích xuất báo cáo từ ERP về Power BI bằng Power Query (M code) và DAX nâng cao, giúp giảm 80% thời gian làm báo cáo thủ công mỗi tháng.
+
+2. Chuyên viên Phân tích Dữ liệu Vận hành - Công ty Cổ phần ABC (2018 - 2021)
+- Xây dựng báo cáo theo dõi hiệu suất bán lẻ tại chuỗi 45 cửa hàng.
+- Lập trình Python trích xuất dữ liệu qua API và đối soát số liệu kho bãi.
+
+KỸ NĂNG CHUYÊN MÔN:
+- Thành thạo: Power BI, DAX, Power Query, Excel nâng cao.
+- Ngôn ngữ lập trình & Truy vấn: SQL (PostgreSQL, SQL Server), Python (pandas, numpy).
+- Kỹ năng mềm: Tư duy phản biện, trình bày số liệu cho cấp quản lý, làm việc nhóm.
+
+CHỨNG CHỈ:
+- Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+- IELTS 7.0
